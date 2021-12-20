@@ -1,0 +1,18 @@
+ <doctype html>
+ <html>
+    
+    <style>
+    .blog{
+        background-color: lightblue;
+        margin: 10px;
+    }
+</style>
+
+<div class="blog">
+    <h1> Travel Blog </h1>
+    <p> I visited my backyard </p>
+</div>
+<div class="blog">
+    <h1> Video Vlog </h1>
+    <p> I recorded my whole night sleeping</p>
+</div>
